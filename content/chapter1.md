@@ -2,8 +2,6 @@
 
 在旧金山以南和硅谷以北，远方的松树的地盘逐渐被橡树和无线电望远镜所取代，一种不太可能的亚文化正在为人类的思维创造一种新的媒介。当经过量产的原型产品到达我们的家、办公室和学校时，我们的生活将发生巨大的变化。
 
-这些能“强化大脑”的机器中的第一台将会演变成现在叫做个人电脑的设备，它们将像今天的信息处理技术，就像电视机像十五世纪的印刷机一样。现在还没有，但很快就会到。在今天的一年级学生高中毕业之前，世界各地数以亿计的人将联合起来，利用过去一个世纪里少数思想家和修补匠梦想的工具，创建新型的人类社区。
-
 The first of these mind-amplifying machines will be descendants of the devices now known as personal computers, but they will resemble today's information processing technology no more than a television resembles a fifteenth-century printing press. They aren't available yet, but they will be here soon. Before today's first-graders graduate from high school, hundreds of millions of people around the world will join together to create new kinds of human communities, making use of a tool that a small number of thinkers and tinkerers dreamed into being over the past century.
 
 Nobody knows whether this will turn out to be the best or the worst thing the human race has done for itself, because the outcome of this empowerment will depend in large part on how we react to it and what we choose to do with it. The human mind is not going to be replaced by a machine, at least not in the foreseeable future, but there is little doubt that the worldwide availability of fantasy amplifiers, intellectual toolkits, and interactive electronic communities will change the way people think, learn, and communicate.
