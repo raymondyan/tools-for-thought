@@ -3,7 +3,7 @@
 * [Tools For Thought](README.md)
   * [致谢](acknowledgement.md)
 * [翻译进度](PLAN.md)
-* [一、当计算机革命还没有发生时](content/chapter1.md)
+* [一、计算机变革还没发生时](content/chapter1.md)
 * [二、第一个程序员是女孩子](content/chapter2.md)
 * [三、第一个黑客和他想象中的机器](content/chapter3.md)
 * [四、约翰尼造出了炸弹，也造了个大脑](content/chapter4.md)

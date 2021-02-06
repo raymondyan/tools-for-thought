@@ -1,16 +1,18 @@
-## 一、当计算机革命还没有发生时
+## 一、计算机变革还没发生时
 
-在旧金山以南和硅谷以北，远方的松树的地盘逐渐被橡树和无线电望远镜所取代，一种不太可能的亚文化正在为人类的思维创造一种新的媒介。当经过量产的原型产品到达我们的家、办公室和学校时，我们的生活将发生巨大的变化。
+在旧金山以南、硅谷以北，远方的松树的地盘将会被橡树和无线电望远镜所取代。一种新兴文化正准备为人类思维打造一种新的媒介。当经过量产的原型产品到达我们的家、办公室和学校时，我们的生活将发生巨大的变化。
 
-The first of these mind-amplifying machines will be descendants of the devices now known as personal computers, but they will resemble today's information processing technology no more than a television resembles a fifteenth-century printing press. They aren't available yet, but they will be here soon. Before today's first-graders graduate from high school, hundreds of millions of people around the world will join together to create new kinds of human communities, making use of a tool that a small number of thinkers and tinkerers dreamed into being over the past century.
+这些改变人类思维方式的机器中有一种会逐渐演变成现在为人熟知的个人电脑，它们与今天的信息处理技术的相似之处，就像电视机之于15世纪的印刷机一样。那时虽然信息技术和电视机还没有到来，但是已经离出现不远了。只需要再过不到十年，世界各地数以亿计的人将会共同努力，利用过去一个世纪里少数思想家们设想中的工具，创建新型的人类社会。
 
-Nobody knows whether this will turn out to be the best or the worst thing the human race has done for itself, because the outcome of this empowerment will depend in large part on how we react to it and what we choose to do with it. The human mind is not going to be replaced by a machine, at least not in the foreseeable future, but there is little doubt that the worldwide availability of fantasy amplifiers, intellectual toolkits, and interactive electronic communities will change the way people think, learn, and communicate.
+没有人知道在人类的发展进程中，这最终会是一件好事还是灾难。因为这种技术赋能之后的结果，将很大程度上取决于我们如何应对和处理它。人类的思维还不会被机器取代，至少在可预见的未来不会。但毫无疑问的是，这种“思维放大器”、智能工具和交互式电子社区将在全球范围内改变人们思考、学习和交流的方式。
 
-It looks as if this latest technology-triggered transformation of society could have even more intense impact than the last time human thought was augmented, five hundred years ago, when the Western world learned to read. Less than a century after the invention of movable type, the literate community in Europe had grown from a privileged minority to a substantial portion of the population. People's lives changed radically and rapidly, not because of printing machinery, but because of what that invention made it possible for people to know. Books were just the vehicles by which the ideas escaped from the private libraries of the elite and circulated among the population.
+看起来，这次由新技术引发的社会变革，可能会比500年前那次人类思维解放时（文艺复兴时期，西欧的思想解放运动，民众逐渐开始阅读书籍）具有更强烈的影响。活字印刷术发明后不到一个世纪，欧洲识字的群体从享有特权的少数人，逐步扩大到了绝大部分公民。人们的生活剧烈而迅速地发生着变化，机械印刷的出现，让人们有机会去接触更多信息 - 通过印刷的书籍，思想开始逃离精英的私人图书馆，进入了芸芸众生的世界。
 
-The true value of books emerged from the community they made possible, an intellectual community that is still alive all over the world. The printed page has been a medium for the propagation of ideas about chemistry and poetry, evolution and revolution, democracy and psychology, technology and industry, and many other notions beyond the ken of the people who invented movable type and started cranking out Bibles.
+书籍的真正价值来自于它们所创造的社群，这些睿智的社群在世界各地仍然活跃。印刷品成为用于传播有关化学和诗歌，进化与革命，民主与心理学，技术与工业以及许多其他概念的媒介，这大大超出了活字印刷技术的开创者的眼界。
 
-Because mass production of sophisticated electronic devices can lag ten years or more behind the state of the are in research prototypes, the first effects of the astonishing achievements in computer science since 1960 have only begun to enter our lives. Word processors, video games, educational software, and computer graphics were unknown terms to most people only ten years ago, but today they are the names for billion-dollar industries. And the experts agree that the most startling developments are yet to come.
+研究中原型产品可能需要十年或者更长时间，才能进入到大规模生产为复杂电子设备的状态。因此自60年代以来计算机科学的惊人成就，所带来的早期影响才刚刚开始进入我们的生活。文字处理器，电脑游戏，教育软件和计算机图形学在十年前（注：大概是80年代中叶）才开始被大家所认识。但如今它们都已开始引领数十亿美元的产业了。尽管如此，专家们一致认为，最惊人的发展上尚未到来。
+
+那些仍然工作在这个行业一些个人计算机的先驱者们不会忘记 - 这个时代的诞生以及他们最初怀揣的梦想。那时候个人电脑的概念在计算机专家看来，是一个晦涩的异端邪说。30年前，绝大多数设计，制造，编程和使用计算机的人，都认同这个关于计算机在社会中的用途的观念 “计算机是用于数学计算的神秘设备” 。 对于非专业人士而言，计算机技术被认为过于精细，贵重并且很复杂。
 
 A few of the pioneers of personal computing who still work in the computer industry can remember the birth and the dream, when the notion of personal computing was an obscure heresy in the ranks of the computing priesthood. Thirty years ago, the overwhelming majority of the people who designed, manufactured, programmed, and used computers subscribed to a single idea about the proper (and possible) place of computers in society: "computers are mysterious devices meant to be used in mathematical calculations." Period. Computer technology was believed to be too fragile, valuable, and complicated for nonspecialists.
 
