@@ -2,7 +2,7 @@
 
 在旧金山以南、硅谷以北，远方的松树的地盘将会被橡树和无线电望远镜所取代。一种新兴文化正准备为人类思维打造一种新的媒介。当经过量产的原型产品到达我们的家、办公室和学校时，我们的生活将发生巨大的变化。
 
-这些改变人类思维方式的机器中有一种会逐渐演变成现在为人熟知的个人电脑，它们与今天的信息处理技术的相似之处，就像电视机之于15世纪的印刷机一样。那时虽然信息技术和电视机还没有到来，但是已经离出现不远了。只需要再过不到十年，世界各地数以亿计的人将会共同努力，利用过去一个世纪里少数思想家们设想中的工具，创建新型的人类社会。
+【更改】这些改变人类思维方式的机器中，有一类会逐渐演变成现在为人熟知的个人电脑，它们与今天的信息处理技术的关系，就像电视机之于15世纪的印刷机一样。就是虽然信息技术和电视机还没有到来，但是已经呼之欲出了。只需要再过不到十年，世界各地数以亿计的人将会共同努力，利用过去一个世纪里少数思想家们设想中的工具，创建新型的人类社会。
 
 没有人知道在人类的发展进程中，这最终会是一件好事还是灾难。因为这种技术赋能之后的结果，将很大程度上取决于我们如何应对和处理它。人类的思维还不会被机器取代，至少在可预见的未来不会。但毫无疑问的是，这种“思维放大器”、智能工具和交互式电子社区将在全球范围内改变人们思考、学习和交流的方式。
 
@@ -10,27 +10,25 @@
 
 书籍的真正价值来自于它们所创造的社群，这些睿智的社群在世界各地仍然活跃。印刷品成为用于传播有关化学和诗歌，进化与革命，民主与心理学，技术与工业以及许多其他概念的媒介，这大大超出了活字印刷技术的开创者的眼界。
 
-研究中原型产品可能需要十年或者更长时间，才能进入到大规模生产为复杂电子设备的状态。因此自60年代以来计算机科学的惊人成就，所带来的早期影响才刚刚开始进入我们的生活。文字处理器，电脑游戏，教育软件和计算机图形学在十年前（注：大概是80年代中叶）才开始被大家所认识。但如今它们都已开始引领数十亿美元的产业了。尽管如此，专家们一致认为，最惊人的发展上尚未到来。
+研究中原型产品可能需要十年或者更长时间，才能进入到大规模生产为复杂电子设备的状态。因此自60年代以来计算机科学的惊人成就，所带来的早期影响才刚刚开始进入我们的生活。文字处理器，电脑游戏，教育软件和计算机图形学在十年前（注：大概是80年代中叶）才开始被大家所认识。但如今它们都已开始引领数十亿美元的产业了。尽管如此，专家们一致认为，最惊人的发展尚未到来。
 
-那些仍然工作在这个行业一些个人计算机的先驱者们不会忘记 - 这个时代的诞生以及他们最初怀揣的梦想。那时候个人电脑的概念在计算机专家看来，是一个晦涩的异端邪说。30年前，绝大多数设计，制造，编程和使用计算机的人，都认同这个关于计算机在社会中的用途的观念 “计算机是用于数学计算的神秘设备” 。 对于非专业人士而言，计算机技术被认为过于精细，贵重并且很复杂。
+那些仍然工作在这个行业的一些个人计算机的先驱者们不会忘记 - 这个时代的开端以及他们最初怀揣的梦想。那时候个人电脑的概念在计算机专家看来，是一个晦涩的异端邪说。30年前，绝大多数设计，制造，编程和使用计算机的人，都认同这个关于计算机在社会中的用途的观念 “计算机是用于数学计算的神秘设备” 。 对于非专业人士而言，计算机技术被认为过于精细，贵重并且很复杂。
 
-A few of the pioneers of personal computing who still work in the computer industry can remember the birth and the dream, when the notion of personal computing was an obscure heresy in the ranks of the computing priesthood. Thirty years ago, the overwhelming majority of the people who designed, manufactured, programmed, and used computers subscribed to a single idea about the proper (and possible) place of computers in society: "computers are mysterious devices meant to be used in mathematical calculations." Period. Computer technology was believed to be too fragile, valuable, and complicated for nonspecialists.
+在50年代，不同意这一观点的人屈指可数。对于计算机的未来，这些人有相似的愿景：所有人都有权享受由计算机带来的智能性和创造性，而不仅仅由技术专家独享。
 
-In 1950 you could count the people who took exception to this dogma on the fingers of one hand. The dissenting point of view shared by those few people involved in a different way of thinking about how computers might be used. The dissenters shared a vision of personal computing in which computers would be used to enhance the most creative aspects of human intelligence-for everybody, not just the technognoconscenti.
+有些人不认可计算机仅仅是用来处理数据的，虽然他们也同意计算机可以用来计算数据，但是这个过程应该具有更好的交互性。他们认为这工具可能有助于我们预测，构建和研究模型，帮助人们在不同方案之间进行选择以及帮助过滤出信息流中有用的部分。 他们想知道这种新生的设备除了充当做计算的工具，是否可能成为人类的通信媒介。
 
-Those who questioned the dogma of data processing agreed that computers can help us calculate, but they also suspected that in the devices could be made more interactive, these tools might help us to speculate, build and study models, choose between alternatives, and search for meaningful patterns in collections of information. They wondered whether this newborn device might become a communication medium as well as a calculating machine.
+这些异端的计算机理论家提出，如果知识确实是力量，那么可以帮助我们将信息转化为知识的设备应该会成为是非常强大的技术的基础。 尽管大多数科学家和工程师对巨大的计算机器保持敬畏之心，但少数人坚持思考如何使用计算机以非数学方式辅助人类思维的操作。
 
-These heretical computer theorists proposed that if human knowledge is indeed power, then a device that can help us transform information into knowledge should be the basis for a very powerful technology. While most scientists and engineers remained in awe of the giant adding machines, this minority insisted on thinking about how computers might be used to assist the operation of human minds in nonmathematical ways.
+本书将主要关注一些人物的想法，这些人在引领过往，现在以及未来的人机技术中产生了极大的影响。计算机史上的几个关键人物活跃在几个世纪或数十年前，我把这些人称为开创者（patriarchs），这些人在科学界享有盛誉，但鲜为常人所知。其他一些个人计算机技术的创造者仍活跃在这个领域，继续探索着人机交互的前沿，是当之无愧的开拓者（pioneers）。
 
-Tools for Thought focuses on the ideas of a few of the people who have been instrumental in creating yesterday's, today's, and tomorrow's human-computer technology. Several key figures in the history of computation lived and died centuries or decades ago. I call these people, renowned in scientific circles but less known to the public, the patriarchs. Other cocreators of personal computer technology are still at work today, continuing to explore the frontiers of mind-machine interaction. I call them the pioneers.
+那些即将体验这个新领域的年轻人，将会成为第一代 “互联网人”（infonauts）。现在讨论历史会如何看待这些新想法，还为时过早，但我们透过观察那些领域内正在产出新思路的人，希望找到一些线索，来推测不久的明天人们会怎么看待这个“新事物”。
 
-The youngest generation, the ones who are exploring the cognitive domains we will all soon experience, I call the Infonauts. It is too early to tell what history will think of the newer ideas, but we're going to take a look as some of the things the latest inner-space explorers are thinking, in hopes of catching some clues to what (and how) everybody will be thinking in the near future.
+我们将会慢慢发现，这项技术未来的限制将不在硬件上，而在我们的思想上。现代计算机是基于“通用机器”的理论演进而来的，“通用机器”实际上不是一种物理设备，而是对于一种能够模拟任何其他机器特征的机器的数学描述。一旦你创造了一台可以模仿任何其他机器的通用机器，这个工具的发展将超乎你的想象。因此机器是不是越来越智能不是我们短期的关注点，考虑如何更充分地利用这样的“通用机器”显得更为重要。
 
-As we shall see, the future limits of this technology are not in the hardware but in our minds. The digital computer is based upon a theoretical discovery known as "the universal machine," which is not actually a tangible device but a mathematical description of a machine capable of simulating the actions of any other machine. Once you have created a general-purpose machine that can imitate any other machine, the future development of the tool depends only on what tasks you can think to do with it. For the immediate future, the issue of whether machines can become intelligent is less important than learning to deal with a device that can become whatever we clearly imagine it to be.
+当今的个人计算机与未来的智能设备之间，硬件上的差别将远远不如用来控制计算机操作的软件上的变革，因为程序会告诉“通用机器”如何去模仿特定类型的机器。正如计算机的硬件基础从继电器到真空管，从晶体管再到集成电路一样，这些程序也在不断变革。当信息处理升级到知识处理时，真正的个人计算机将超脱于硬件，与人类的大脑联手，迸发出远超电子微型电路技术能设想出来的能量。
 
-The pivotal difference between today's personal computers and tomorrow's intelligent devices will have less to do with their hardware than their software-- the instructions people create to control the operations of the computing machinery. A program is what tells the general-purpose machine to imitate a specific kind of machine. Just as the hardware basis for computing has evolved from relays to vacuum tubes to transistors to integrated circuits, the programs have evolved as well. When information processing grows into knowledge processing, the true personal computer will reach beyond hardware and connect with a vaster source of power than that of electronic microcircuitry--the power of human minds working in concert.
-
-The nature of the world we create in the closing years of the twentieth century will be determined to a significant degree by our attitudes toward this new category of tool. Many of us who were educated in the precomputer era shall be learning new skills. The college class of 1999 is already on its way. It is important that we realize today that those skills of tomorrow will have little to do with how to operate computers and a great deal to do with how to use augmented intellects, enhanced communications, and amplified imaginations.
+让我们忘掉“计算机知识”或晦涩难懂的技术术语吧，因为当机器和它们的程序变得更加智能时，这些“门槛”将会消失。首先，打造个人电脑的目的是为了让人们去做人类最擅长的事，即指挥机器去做机器擅长的事。许多人对计算机技术感到担忧，是因为他们被告知这些机器会比他们还要聪明，很多新手在刚接触计算机的时候都会被灌输这样的引导。事实上，这种焦虑应该是电脑需要承受的，一台笨到无法理解你想要什么的电脑，差不多就离被送进垃圾堆不远了。
 
 Forget about "computer literacy" or obfuscating technical jargon, for these aberrations will disappear when the machines and their programs grow more intelligent. The reason for building a personal computer in the first place was to enable people to do what people do best be using machines to do what machines do best. Many people are afraid of today's computers because they have been told that these machines are smarter than they are--a deception that is reinforced by the rituals that novices have been forced to undergo in order to use computers. In fact, the burden of communication should be on the machine. A computer that is difficult to use is a computer that's too dumb to understand what you want.
 
